@@ -1,5 +1,5 @@
-# Megillah and the Machine (המגילה והמכונה)
-### *Zeresh: A Transparent and Simple NLP Sandbox on 167 Verses*
+# Zeresh — a tiny, fully sober MLP
+### *A Transparent and Simple NLP Sandbox on 167 Verses*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](pyproject.toml)
