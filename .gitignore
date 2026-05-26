@@ -1,0 +1,27 @@
+# Python Caches & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# User-requested PDF and Google Form exclusions
+זרש - מודל השפה שלא שתה.pdf
+חידון מגילת אסתר  זיהוי דמויות וקירבה.gform

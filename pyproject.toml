@@ -1,0 +1,36 @@
+[project]
+name = "esther_nlp"
+version = "1.0.0"
+description = "A clean, reproducible end-to-end NLP pipeline on Megillat Esther."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = [
+    "torch>=2.0.0",
+    "gensim>=4.3.0",
+    "tokenizers>=0.13.0",
+    "scikit-learn>=1.0.0",
+    "scipy>=1.8.0",
+    "matplotlib>=3.5.0",
+    "arabic-reshaper>=3.0.0",
+    "python-bidi>=0.4.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=22.0.0",
+    "mypy>=1.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::UserWarning",
+]
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
