@@ -69,5 +69,5 @@ ChatGPT, Gemini, or Claude would score near 100% on this exact task — but not 
 
 ---
 
-**Interactive Walkthrough:** [07_classifier.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/07_classifier.ipynb)  
-**Code Implementation:** [classifier.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/classifier.py)
+**Interactive Walkthrough:** [07_classifier.ipynb](../notebooks/07_classifier.ipynb)  
+**Code Implementation:** [classifier.py](../src/esther_nlp/classifier.py)

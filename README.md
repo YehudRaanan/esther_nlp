@@ -87,7 +87,7 @@ This project manages environment packaging and dependencies with modern tools. Y
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/esther_nlp.git
+git clone https://github.com/YehudRaanan/esther_nlp.git
 cd esther_nlp
 
 # Setup environment and install dependencies
@@ -135,14 +135,14 @@ The model is highly confident and completely wrong. This is the exact structural
 
 Click the absolute paths below to explore and run the interactive stages of the pipeline:
 
-1.  [**Chapter 1 — Setup**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/01_setup.ipynb): Parsing the consonantal corpus and previewing the pipeline.
-2.  [**Chapter 2 — Tokenization**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/02_tokenization.ipynb): BPE merges and quantitative analysis of the dominant word `המלך`.
-3.  [**Chapter 3 — Embedding**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/03_embedding.ipynb): Word2Vec training and character distance coordinates.
-4.  [**Chapter 4 — Chiastic Mirror**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/04_chiastic_mirror.ipynb): Macro chapter-centroids symmetries and similarities.
-5.  [**Chapter 5 — Honor That Flips**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/05_honor_that_flips.ipynb): Orthogonal Procrustes alignment of the shift word `יקר`.
-6.  [**Chapter 6 — Cast Shifts**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/06_cast_shifts.ipynb): Protagonist rivers streamgraph.
-7.  [**Chapter 7 — Zeresh Classifier**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/07_classifier.ipynb): Masked-character PyTorch MLP training.
-8.  [**Chapter 8 — Error & Hallucinations**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/08_error_analysis.ipynb): Sages' mirror verses and structural model failures.
+1.  [**Chapter 1 — Setup**](notebooks/01_setup.ipynb): Parsing the consonantal corpus and previewing the pipeline.
+2.  [**Chapter 2 — Tokenization**](notebooks/02_tokenization.ipynb): BPE merges and quantitative analysis of the dominant word `המלך`.
+3.  [**Chapter 3 — Embedding**](notebooks/03_embedding.ipynb): Word2Vec training and character distance coordinates.
+4.  [**Chapter 4 — Chiastic Mirror**](notebooks/04_chiastic_mirror.ipynb): Macro chapter-centroids symmetries and similarities.
+5.  [**Chapter 5 — Honor That Flips**](notebooks/05_honor_that_flips.ipynb): Orthogonal Procrustes alignment of the shift word `יקר`.
+6.  [**Chapter 6 — Cast Shifts**](notebooks/06_cast_shifts.ipynb): Protagonist rivers streamgraph.
+7.  [**Chapter 7 — Zeresh Classifier**](notebooks/07_classifier.ipynb): Masked-character PyTorch MLP training.
+8.  [**Chapter 8 — Error & Hallucinations**](notebooks/08_error_analysis.ipynb): Sages' mirror verses and structural model failures.
 
 ---
 
@@ -150,15 +150,15 @@ Click the absolute paths below to explore and run the interactive stages of the 
 
 The complete, beautifully detailed narrative chapters of our investigation are compiled under the `essay/` directory. Each chapter features full academic prose, pre-generated figures, and clickable links to the codebase modules:
 
-*   [**Chapter 1 — Setup**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/01-setup.md)
-*   [**Chapter 2 — Tokenization**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/02-tokenization.md)
-*   [**Chapter 3 — Embedding**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/03-embedding.md)
-*   [**Chapter 4 — Chiastic Mirror**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/04-the-chiastic-mirror.md)
-*   [**Chapter 5 — Honor That Flips**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/05-the-honor-that-flips.md)
-*   [**Chapter 6 — Cast Shifts**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/06-the-cast-shifts.md)
-*   [**Chapter 7 — Zeresh Classifier**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/07-the-classifier.md)
-*   [**Chapter 8 — Error Analysis**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/08-error-analysis.md)
-*   [**Appendix — What We Couldn't Predict**](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/essay/appendix-replacement-parallel.md) (Optional multi-seed bootstrap test of the replacement-parallel vector direction)
+*   [**Chapter 1 — Setup**](essay/01-setup.md)
+*   [**Chapter 2 — Tokenization**](essay/02-tokenization.md)
+*   [**Chapter 3 — Embedding**](essay/03-embedding.md)
+*   [**Chapter 4 — Chiastic Mirror**](essay/04-the-chiastic-mirror.md)
+*   [**Chapter 5 — Honor That Flips**](essay/05-the-honor-that-flips.md)
+*   [**Chapter 6 — Cast Shifts**](essay/06-the-cast-shifts.md)
+*   [**Chapter 7 — Zeresh Classifier**](essay/07-the-classifier.md)
+*   [**Chapter 8 — Error Analysis**](essay/08-error-analysis.md)
+*   [**Appendix — What We Couldn't Predict**](essay/appendix-replacement-parallel.md) (Optional multi-seed bootstrap test of the replacement-parallel vector direction)
 
 ---
 

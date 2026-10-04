@@ -89,5 +89,5 @@ Commercial LLMs would not naturally surface this kind of finding. Asked *"which 
 
 ---
 
-**Interactive Walkthrough:** [05_honor_that_flips.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/05_honor_that_flips.ipynb)  
-**Code Implementation:** [embeddings.py (alignment)](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/embeddings.py) & [analysis.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/analysis.py)
+**Interactive Walkthrough:** [05_honor_that_flips.ipynb](../notebooks/05_honor_that_flips.ipynb)  
+**Code Implementation:** [embeddings.py (alignment)](../src/esther_nlp/embeddings.py) & [analysis.py](../src/esther_nlp/analysis.py)

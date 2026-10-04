@@ -79,4 +79,4 @@ The chiasm exists, and the model finds it (Chapter 4). The honor word flips, and
 
 ---
 
-**Code Implementation:** [plots.py (bootstrap plot)](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/plots.py)
+**Code Implementation:** [plots.py (bootstrap plot)](../src/esther_nlp/plots.py)

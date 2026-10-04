@@ -75,5 +75,5 @@ The main pipeline ends here. An optional [appendix](appendix-replacement-paralle
 
 ---
 
-**Interactive Walkthrough:** [08_error_analysis.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/08_error_analysis.ipynb)  
-**Code Implementation:** [classifier.py (evaluation)](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/classifier.py)
+**Interactive Walkthrough:** [08_error_analysis.ipynb](../notebooks/08_error_analysis.ipynb)  
+**Code Implementation:** [classifier.py (evaluation)](../src/esther_nlp/classifier.py)

@@ -71,5 +71,5 @@ Asked about the chiastic structure of Esther, ChatGPT or Claude would produce a 
 
 ---
 
-**Interactive Walkthrough:** [04_chiastic_mirror.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/04_chiastic_mirror.ipynb)  
-**Code Implementation:** [analysis.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/analysis.py)
+**Interactive Walkthrough:** [04_chiastic_mirror.ipynb](../notebooks/04_chiastic_mirror.ipynb)  
+**Code Implementation:** [analysis.py](../src/esther_nlp/analysis.py)

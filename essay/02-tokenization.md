@@ -68,5 +68,5 @@ ChatGPT, Gemini, and Claude all begin with tokenization too. GPT-4 uses a BPE to
 
 ---
 
-**Interactive Walkthrough:** [02_tokenization.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/02_tokenization.ipynb)  
-**Code Implementation:** [tokenizer.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/tokenizer.py)
+**Interactive Walkthrough:** [02_tokenization.ipynb](../notebooks/02_tokenization.ipynb)  
+**Code Implementation:** [tokenizer.py](../src/esther_nlp/tokenizer.py)

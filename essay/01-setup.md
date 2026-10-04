@@ -58,5 +58,5 @@ A short **appendix** at the end of the repo, for readers who want more technical
 
 ---
 
-**Interactive Walkthrough:** [01_setup.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/01_setup.ipynb)  
-**Code Implementation:** [data.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/data.py)
+**Interactive Walkthrough:** [01_setup.ipynb](../notebooks/01_setup.ipynb)  
+**Code Implementation:** [data.py](../src/esther_nlp/data.py)

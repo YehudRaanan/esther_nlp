@@ -71,5 +71,5 @@ We now have everything we need for the masking task: a tokenizer (Stage 2), an e
 
 ---
 
-**Interactive Walkthrough:** [06_cast_shifts.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/06_cast_shifts.ipynb)  
-**Code Implementation:** [plots.py (streamgraph)](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/plots.py)
+**Interactive Walkthrough:** [06_cast_shifts.ipynb](../notebooks/06_cast_shifts.ipynb)  
+**Code Implementation:** [plots.py (streamgraph)](../src/esther_nlp/plots.py)

@@ -63,5 +63,5 @@ Commercial LLMs use embeddings too, but they are *contextual* — the vector for
 
 ---
 
-**Interactive Walkthrough:** [03_embedding.ipynb](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/notebooks/03_embedding.ipynb)  
-**Code Implementation:** [embeddings.py](file:///g:/האחסון%20שלי/learning/Nebius/LLM_Architecture/Ex2/repo-draft/src/esther_nlp/embeddings.py)
+**Interactive Walkthrough:** [03_embedding.ipynb](../notebooks/03_embedding.ipynb)  
+**Code Implementation:** [embeddings.py](../src/esther_nlp/embeddings.py)
